@@ -1,0 +1,120 @@
+.add_new_drop{
+    background: #5cb85c !important;
+    border-color: #4cae4c !important;
+    border-style: none !important;
+    //float: left !important;
+}
+.remove_new_drop{
+    background: #d9534f !important;
+    border-color: #d43f3a !important;
+    border-style: none !important;
+}
+.remove_block{
+    background: #A60000 !important;
+    border-color: #A60000 !important;
+    border-style: none !important;
+}
+#wpfooter {
+    position: relative !important;
+}
+
+.main{
+    margin-bottom: 40px;
+}
+.remove_block{
+    float: left;
+    margin-right: 10px;
+
+}
+.block{
+    display: inline-block;
+    margin-bottom: 5px;
+    //margin-left: 45px;
+}
+.first-input{
+    display: none;
+}
+.first_input{
+    display: none;
+    display: inline-block
+}
+.add_new_drop{
+    margin-left: 5px;
+}
+
+//* Bulk Edit Section CSS Start *//
+
+.bulk_main{
+    margin-bottom: 40px !important;
+}
+.name_bulk_block{
+   display: none; 
+}
+.remove_bulk_block{
+    float: left;
+    margin-right: 10px;
+    background: #A60000 !important;
+    border-color: #A60000 !important;
+    border-style: none !important;
+}
+.bulk_block{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.add_new_drop_bulk{
+    margin-left: 5px;
+}
+.first_edit_criteria{
+    margin-bottom: 30px;
+    display: block;
+}
+.second_edit_criteria{
+    display: none;
+    margin-top: 30px;
+}
+
+//* Bulk Edit Section CSS End *//
+
+// 7.22.15
+.select2-search__field{
+    box-shadow: none !important;
+}
+.attribute_terms input{
+   box-shadow: none !important; 
+}
+.select2-selection--multiple{
+    height: 10px !important;
+    border-radius: 0px !important;
+}
+.attribute_terms li{
+   margin-bottom: 2px !important;
+   margin-top: 4px !important;
+}
+.left_level{
+    width:80px;
+    display: inline-block;
+}
+
+//7.29.15
+.product_category .select2-search__faield{
+   box-shadow: none !important; 
+}
+.select2-search__field{
+    box-shadow: none !important;
+}
+.product_tag .select2-search__faield{
+   box-shadow: none !important; 
+}
+.select2-search__field{
+    box-shadow: none !important;
+}
+
+.main{
+    display: none;
+}
+.bulk_main{
+     display: none;
+}
+.remove_bulk_block{
+     display: none;
+}
